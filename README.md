@@ -1,3 +1,5 @@
+# Deprecated in favor of https://github.com/Soft-Sprint-Studios/Tectonic-Engine
+
 # Math_Lib
 Open source copy of "Math_Lib.dll" from the Tectonic Engine along with open sourced "compat.h"
 
